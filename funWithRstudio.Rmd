@@ -1,6 +1,7 @@
 ---
 title: "Fun With Rstudio"
-output: html_document
+author: "sparkypants"
+output: github_document
 date: "2025-02-24"
 ---
 
